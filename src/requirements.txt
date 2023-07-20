@@ -2,7 +2,7 @@ args==0.1.0
 clint==0.5.1
 prompt-toolkit==1.0.14
 pyfiglet==0.8.post1
-Pygments==2.13.0
+Pygments==2.15.0
 PyInquirer==1.0.3
 regex==2022.10.31
 six==1.16.0
